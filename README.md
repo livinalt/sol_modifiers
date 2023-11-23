@@ -1,14 +1,17 @@
-# sol_modifiers
-
-Modifiers are basically pieces of codes in a smart contract that are pre-requisite to the run of a function in which they are declared in
+# Simple Modifiers Contract
 
 # Introduction
-This repo, basically, has a few modifiers to illustrate how modifiers work and are executed
+Modifiers are basically pieces of codes in a smart contract that are pre-requisite to the run of a function in which they are declared in
+This smart contract illustrates how modifiers work underneath the hood
 
-#The Owner
+## Functionalities
 
+The Owner
 This modifier will give only an admin access level when this contract is run 
 
-#License
+##Author
+Jeremiah Samuel
+livinalt@gmail.com
 
-MIT license
+#License
+This contract is licensed under the MIT license
