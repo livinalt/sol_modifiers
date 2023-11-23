@@ -9,9 +9,9 @@ This smart contract illustrates how modifiers work underneath the hood
 The Owner
 This modifier will give only an admin access level when this contract is run 
 
-##Author
+## Author
 Jeremiah Samuel
 livinalt@gmail.com
 
-#License
+## License
 This contract is licensed under the MIT license
